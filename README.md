@@ -1,2 +1,5 @@
-# arch160_spr2018
-ARCH 160 - Computers for Designers
+# Not a Photoshop Class
+## ARCH 160 - Computers for Designers
+### Assignment 1
+
+
