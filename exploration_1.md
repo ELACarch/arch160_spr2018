@@ -23,7 +23,7 @@ With your 20 images, you will have 20 seconds each to present them to the class 
 Basically many architects and designer go on and on talking way too much. This style makes us think, and hopefully prepare a better way to present.
 
 #### For those talking about your studio project
-So you have 20 slides, how would you go about talking about your project? Are there any themes or ideas you want to emphasize? What kind of drawings do you think would help? Maybe it's about entirely about the project, maybe its how you went about it. Think that each slide is on the projector for 20 seconds and it will automatically go to the next slide.
+> So you have 20 slides, how would you go about talking about your project? Are there any themes or ideas you want to emphasize? What kind > of drawings do you think would help? Maybe it's about entirely about the project, maybe its how you went about it. Think that each slide > is on the projector for 20 seconds and it will automatically go to the next slide.
 
 #### For those talking about a street or neighborhood
-So you have 20 slides, how would you talk about the street or neighborhood? Do you do it as about you experience it? Do you talk about certain objects (like buildings, signs, people). Given that you may not have photos to work with, take the time to go to the site and take photographs or google streetview.
+> So you have 20 slides, how would you talk about the street or neighborhood? Do you do it as about you experience it? Do you talk about > certain objects (like buildings, signs, people). Given that you may not have photos to work with, take the time to go to the site and take > photographs or google streetview.
