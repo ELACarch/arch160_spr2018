@@ -1,7 +1,7 @@
 # Exploration 1
 ## Second Chances or A la Esquina
 ![image](https://user-images.githubusercontent.com/6407796/36005364-2cfded96-0cec-11e8-90fc-e751696403ee.png)
-
+Image Credit - Herman Hertzberger
 
 We all have different levels ok skills with the design tools we will be exploring. This class being open to everyone, we would like to take on telling a story. 
 
