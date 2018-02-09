@@ -4,9 +4,9 @@
 
 ## Arch 160 - Computers for Designers
 
-Instructors:
-Jesus Abril - abrilj [at] elac.edu
-Omar Ureta - omaru [at] theworks.la
+### Instructors:
+* Jesus Abril - abrilj [at] elac.edu
+* Omar Ureta - omaru [at] theworks.la
 
 Class meets Tues - Thurs from 3:40-6:40pm
 
