@@ -27,3 +27,6 @@ Basically many architects and designer go on and on talking way too much. This s
 
 #### For those talking about a street or neighborhood
 > So you have 20 slides, how would you talk about the street or neighborhood? Do you do it as about you experience it? Do you talk about > certain objects (like buildings, signs, people). Given that you may not have photos to work with, take the time to go to the site and take > photographs or google streetview.
+
+#### Resources
+* [Mapillary](https://www.mapillary.com) - Crowdsourcing Street Leve Photos
