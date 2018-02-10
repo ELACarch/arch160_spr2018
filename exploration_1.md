@@ -28,5 +28,7 @@ Basically many architects and designers go on and on talking way too much. This 
 #### For those talking about a street or neighborhood
 > So you have 20 slides, how would you talk about the street or neighborhood? Do you tell it as how you experience it? Do you talk about certain objects (like buildings, signs) or how people use their environment. Given that you may not have photos to work with, take the time to go to the site and take photographs or google streetview.
 
+>For example you can take photos of everyday objects and how we use them, a cool way to go about it is how design firm IDEO put together a book called, "Thoughtless Acts." [Here's an article as to what they did.](https://blog.interactivethings.com/thoughtless-acts-962a824bb0b5)
+
 #### Resources
-* [Mapillary](https://www.mapillary.com) - Crowdsourcing Street Leve Photos
+* [Mapillary](https://www.mapillary.com) - Crowdsourcing Street Level Photos
