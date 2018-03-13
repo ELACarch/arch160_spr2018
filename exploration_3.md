@@ -3,3 +3,10 @@
 
 ### Practice Sprints
 [Sprint 1 - Photoshop Texturing](https://drive.google.com/open?id=1FimeN1Y56EQcicS8mUI6Q_0WvnlNbJrS)
+
+Do the following:
+1.	Park covering the freeway, no cars
+2.	Rail going through the park
+3.	Add people and trees
+4.	Texture the building
+5.	Add clouds
