@@ -10,3 +10,4 @@ Do the following:
 3.	Add people and trees
 4.	Texture the building
 5.	Add clouds
+
