@@ -6,7 +6,7 @@
 
 ### Instructors:
 * Jesus Abril - abrilj [at] elac.edu
-* Omar Ureta - omaru [at] theworks.la
+* Omar Ureta - uretao [at] elac.edu
 
 Class meets Tues - Thurs from 3:40-6:40pm
 
