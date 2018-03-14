@@ -20,14 +20,15 @@ Deliverables
 *	11x17 Portrait Poster promoting your presentation.
 
 Project Folks (Pros)
-•	Choose a project you have done in studio
-•	Prep 20 slides of previous workflow to present and explain for Thurs: Elements, site plan, sections
+*	Choose a project you have done in studio
+*	Prep 20 slides of previous workflow to present and explain for Thurs: Elements, site plan, sections
+
 Non-Project Folks (No-Pros)
-•	Choose an area
-o	Immediate: House
-o	Surrounding Neighborhood
-o	On Campus
-•	Photograph those areas in a scale involving (capture 
-o	Eye level – Close up
-o	Eye level – Wider shot
-o	Long shots
+*	Choose an area
+  *	Immediate: House
+  *	Surrounding Neighborhood
+  *	On Campus
+*	Photograph those areas in a scale involving (capture 
+  *	Eye level – Close up
+  *	Eye level – Wider shot
+  *	Long shots
