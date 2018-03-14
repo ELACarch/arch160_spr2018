@@ -11,3 +11,23 @@ Do the following:
 4.	Texture the building
 5.	Add clouds
 
+For Thursday 3.15.2018
+Back to Pecha Kucha (Semester Project)
+
+Deliverables
+
+* 20 slide presentation in Pecha Kucha Style
+*	11x17 Portrait Poster promoting your presentation.
+
+Project Folks (Pros)
+•	Choose a project you have done in studio
+•	Prep 20 slides of previous workflow to present and explain for Thurs: Elements, site plan, sections
+Non-Project Folks (No-Pros)
+•	Choose an area
+o	Immediate: House
+o	Surrounding Neighborhood
+o	On Campus
+•	Photograph those areas in a scale involving (capture 
+o	Eye level – Close up
+o	Eye level – Wider shot
+o	Long shots
